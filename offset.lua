@@ -14,7 +14,7 @@ offsets = {
     {lib = "libanogs.so", offset = 0x2657C8, hex = "h000080D2C0035FD6"}, 
     {lib = "libanogs.so", offset = 0x458794, hex = "h000080D2C0035FD6"}
   },
-  fps_booster = {
+  ultra_framerate = {
     {lib = "libunity.so", offset = 0x8830880, hex = "h200080D2C0035FD6"},
     {lib = "libunity.so", offset = 0x88308fc, hex = "h200080D2C0035FD6"},
     {lib = "libunity.so", offset = 0x882fac0, hex = "h200080D2C0035FD6"}
@@ -27,7 +27,7 @@ offsets = {
     {lib = "libunity.so", offset = 0x882FAB8, hex = "h202480D2C0035FD6"},
     {lib = "libunity.so", offset = 0x8830904, hex = "h202480D2C0035FD6"}
   },
-  ultra_fps = {
+  max_graphics = {
     {lib = "libunity.so", offset = 0x883480C, hex = "h200080D2C0035FD6"},
     {lib = "libunity.so", offset = 0x884703C, hex = "h200080D2C0035FD6"},
     {lib = "libunity.so", offset = 0x883BCD0, hex = "h200080D2C0035FD6"},
